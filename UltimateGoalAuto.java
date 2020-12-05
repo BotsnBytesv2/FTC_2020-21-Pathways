@@ -31,6 +31,8 @@ public class ultimateGoalAuto extends LinearOpMode {
                         .strafeLeft(25)
                         .forward(42)
                         .build();
+               
+                //DROP OF WOBBLE GOAL
 
                 Trajectory traj3 = drivetrain.trajectoryBuilder(traj2.end())
                         .strafeRight(25)
@@ -54,6 +56,8 @@ public class ultimateGoalAuto extends LinearOpMode {
                 Trajectory traj2 = drivetrain.trajectoryBuilder(traj1.end())
                         .forward(65)
                         .build();
+                
+                //DROP OF WOBBLE GOAL
 
                 Trajectory traj3 = drivetrain.trajectoryBuilder(traj2.end())
                         .back(35)
@@ -77,6 +81,8 @@ public class ultimateGoalAuto extends LinearOpMode {
                         .strafeLeft(25)
                         .forward(90)
                         .build();
+                
+                //DROP OF WOBBLE GOAL
 
                 Trajectory traj3 = drivetrain.trajectoryBuilder(traj2.end())
                         .strafeRight(25)
@@ -116,6 +122,8 @@ public class ultimateGoalAuto extends LinearOpMode {
                         .strafeLeft(25)
                         .forward(42)
                         .build();
+                
+                //DROP OF WOBBLE GOAL
 
                 Trajectory traj3 = drivetrain.trajectoryBuilder(traj2.end())
                         .strafeRight(25)
@@ -139,6 +147,8 @@ public class ultimateGoalAuto extends LinearOpMode {
                 Trajectory traj2 = drivetrain.trajectoryBuilder(traj1.end())
                         .forward(65)
                         .build();
+                
+                //DROP OF WOBBLE GOAL
 
                 Trajectory traj3 = drivetrain.trajectoryBuilder(traj2.end())
                         .back(35)
@@ -162,6 +172,8 @@ public class ultimateGoalAuto extends LinearOpMode {
                         .strafeLeft(25)
                         .forward(90)
                         .build();
+                
+                //DROP OF WOBBLE GOAL
 
                 Trajectory traj3 = drivetrain.trajectoryBuilder(traj2.end())
                         .strafeRight(25)
@@ -201,6 +213,8 @@ public class ultimateGoalAuto extends LinearOpMode {
                         .strafeRight(25)
                         .forward(42)
                         .build();
+                
+                //DROP OF WOBBLE GOAL
 
                 Trajectory traj3 = drivetrain.trajectoryBuilder(traj2.end())
                         .strafeLeft(25)
@@ -224,6 +238,8 @@ public class ultimateGoalAuto extends LinearOpMode {
                 Trajectory traj2 = drivetrain.trajectoryBuilder(traj1.end())
                         .forward(65)
                         .build();
+                
+                //DROP OF WOBBLE GOAL
 
                 Trajectory traj3 = drivetrain.trajectoryBuilder(traj2.end())
                         .back(35)
@@ -247,6 +263,8 @@ public class ultimateGoalAuto extends LinearOpMode {
                         .strafeRight(25)
                         .forward(90)
                         .build();
+                
+                //DROP OF WOBBLE GOAL
 
                 Trajectory traj3 = drivetrain.trajectoryBuilder(traj2.end())
                         .strafeLeft(25)
@@ -286,6 +304,8 @@ public class ultimateGoalAuto extends LinearOpMode {
                         .strafeRight(25)
                         .forward(42)
                         .build();
+                
+                //DROP OF WOBBLE GOAL
 
                 Trajectory traj3 = drivetrain.trajectoryBuilder(traj2.end())
                         .strafeLeft(25)
@@ -309,6 +329,8 @@ public class ultimateGoalAuto extends LinearOpMode {
                 Trajectory traj2 = drivetrain.trajectoryBuilder(traj1.end())
                         .forward(65)
                         .build();
+                
+                //DROP OF WOBBLE GOAL
 
                 Trajectory traj3 = drivetrain.trajectoryBuilder(traj2.end())
                         .back(35)
@@ -332,6 +354,8 @@ public class ultimateGoalAuto extends LinearOpMode {
                         .strafeRight(25)
                         .forward(90)
                         .build();
+                
+                //DROP OF WOBBLE GOAL
 
                 Trajectory traj3 = drivetrain.trajectoryBuilder(traj2.end())
                         .strafeLeft(25)
